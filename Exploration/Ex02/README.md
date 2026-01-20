@@ -7,7 +7,9 @@
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-          ![alt text](image.png)
+
+          <img width="458" height="633" alt="ex02-review-1" src="https://github.com/user-attachments/assets/680c8fb3-282a-4176-bb15-af78c9ee37d5" />
+
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -17,7 +19,8 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-          ![alt text](image-1.png)
+          <img width="583" height="671" alt="ex02-review-2" src="https://github.com/user-attachments/assets/daf641e7-3b01-48f4-8fe2-1f824ec9bac8" />
+
 
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -26,7 +29,8 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-          ![alt text](image-2.png)
+          <img width="1239" height="476" alt="ex02-review-3" src="https://github.com/user-attachments/assets/54f6430b-61d2-4ecc-bd61-5940d15eef16" />
+
 
 - [X]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -34,7 +38,8 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-          ![alt text](image-3.png)
+          <img width="1119" height="494" alt="ex02-review-4" src="https://github.com/user-attachments/assets/2165ddd3-d3f0-4c6c-9a14-34d491bdc051" />
+
 
 
 - [X]  **5. 코드가 간결하고 효율적인가요?**
@@ -42,7 +47,8 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-          ![alt text](image-4.png)
+          <img width="1110" height="512" alt="ex02-review-5" src="https://github.com/user-attachments/assets/673187f3-2da3-4498-a3b1-71558eb260bd" />
+
 
 
 # 회고(참고 링크 및 코드 개선)
