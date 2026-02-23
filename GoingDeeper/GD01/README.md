@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 정정채
-- 리뷰어 : 금동연
+- 코더 : 금동연
+- 리뷰어 : 정정채
 
 
 # PRT(Peer Review Template)
